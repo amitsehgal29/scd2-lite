@@ -1,0 +1,5 @@
+customer_id,name,city,tier,valid_from,valid_to,is_current
+C1,Ali,Dubai,gold,2026-01-01,2026-06-01,false
+C1,Ali,Abu Dhabi,gold,2026-06-01,9999-12-31,true
+C2,Neha,Pune,silver,2026-03-15,9999-12-31,true
+C3,Sam,London,bronze,2026-04-10,9999-12-31,true
